@@ -11,4 +11,4 @@ scgi_params
 scgi_params.default
 uwsgi_params
 uwsgi_params.default
-win_utf
+win-utf
